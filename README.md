@@ -1,2 +1,2 @@
 # Pet-Project-Playground
-Welcome to the Pet-Project-Playground! This repository is a collection of my personal projects, each one reflecting a unique aspect of my coding journey and interests. 
+Welcome to the Pet-Project-Playground! This repository is a collection of my personal projects, each one reflecting a unique aspect of my coding journey and interests. From experimental apps and utility tools to creative coding challenges and learning exercises, this repository is my digital sandbox. Here, you'll find a variety of projects in different stages of development—some are polished and complete, while others are rough drafts that show my progress and learning process. 
